@@ -1,0 +1,57 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAMzMDAAAAADARMS0wAwAAExEtEO8DMwATES0Q7vMvMBERBRDy8y8wEREtERMzLzARPFERETMzMBE/0REtN3bAExERES7TUQATERERN1NRADARETd3b27AABMRN3d3cwAAMDc3d3dDAAAAMDMzN0MAAAAAADczQAAAAAAAMAMAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAABmZmYAAAAAAGZmZgAAAAAAZmZmAAAAAABmZmYAAAAAAGZmZgAAAAAAZmZmAAAAAABmZmYAAAAAAGZmZgAAAAAAZmZmAAAAAABmZmYAAAAAAGZmZgAAAAAAZmZmAAAAAABmZmYAAAAAAGZmZgAAAAAAZmZmAAAAAABmZmYAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "platform"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAACICAAAAAAAgIiIAAAAAACARIgAAAAAAIiEiAAAAAAAiIiICAAAAACIiIgIAAAAgIiIi8gAP8CAiIiLy8A//ICIiIvL//w8gIiIiAg/wAAAiIiICAAAAACIiIgIAAAAAIiIiAAAAAAAgIiIAAAAAACAiIgAAAAAAACICAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spring"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAgIiIAAAAAACIiIgIAAAAAIiIiIgAAAAAiIi8iAAAAACIi8iIAAAAA8i8iLwAAAAAiIiIv////ACIiIi////8AIiIiL////wAi/yIv////ACIi8iIAAAAAIiIvIgAAAAAiIiIiAAAAACIiIiIAAAAAIiIiAgAAAAAgIiIAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAICIiIiICAAAiIiIiIiIAICIiIiIiIgIiIiIi/y8iIiIi/y///yIiIiL/L///IiIiIiIiL/8iIiIiIiIiIiIiIiIiIvIiIiIiIiIi//8iIiIi/y///yIiIiL/L///IiIiIiIi//8iIiAiIiL/LyICACIiIiIiIgAAICIiIiICAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy death"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAER/d3d3dwAARB//f3d39P9E//F/InL0/0QfH38ScvT/RP/xcRJy9P9E/x9/EnL09UT//3EScvT1RP//JxJy9PVE//8nEnL0/0Qf/38ScvT/RP/xfxJy9P9EHx9/EnL0/0T/8XEScgAARP8ffyJyAABE//9xd3cAAER/d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "top G"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASIgAAAAAAACISAAAAAAAAIhIAAAAAAAASIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pill"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICIAAAAAAAAiIgIAAAAAACIiAgAAAAAAIiICAAAAAAAiIgIAAAAAACIiAgAAAAAAEREBAAAAAAAREQEAAAAAABERAQAAAAAAEREBAAAAAAAREQEAAAAAABARAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Original Rhubarb and custards 500g"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICIAAAAAAABERAQAAAAAAEREBAAAAAAAVVUFAAAAAABVVQUAAAAAAHd3BwAAAAAAd3cHAAAAAACZmQkAAAAAAJmZCQAAAAAAiIgIAAAAAACIiAgAAAAAAKCqAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Original Rhubarb and custards 500 rainbow"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAER/d3d3dwAARB8icnd39P9ELyFyInL0/0QfEnIScvT/RC8hcRJy9P9ELxJyEnL09UQvInEScvT1RC8iJxJy9PVELyInEnL0/0QfInIScvT/RC8hchJy9P9EHxJyEnL0/0QvIXEScgAARC8SciJyAABELyJxd3cAAER/d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "top G super"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
